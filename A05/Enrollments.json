@@ -1,7 +1,0 @@
-[
-  {"FirstName": "Bob", "LastName": "Smith", "CourseName": "Python 100"},
-  {"FirstName": "Sue", "LastName": "Jones", "CourseName": "Python 100"},
-  {"FirstName": "Nick", "LastName": "Greco", "CourseName": "Python 110"},
-  {"FirstName": "Jack", "LastName": "Johnson", "CourseName": "Songwriting"},
-  {"FirstName": "George", "LastName": "Washington", "CourseName": "American History"}
-]
